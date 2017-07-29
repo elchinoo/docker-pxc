@@ -1,4 +1,4 @@
-# docker-pxc
+# Percona XtraDB Cluster (PXC)
  Percona XtraDB Cluster is an active/active high availability and high scalability open source solution for MySQL® clustering. It integrates Percona Server and Percona XtraBackup with the Codership Galera library of MySQL high availability solutions in a single package that enables you to create a cost-effective MySQL high availability cluster. Percona XtraDB Cluster has been downloaded over 780,000 times since its launch in April 2012.
 
 
